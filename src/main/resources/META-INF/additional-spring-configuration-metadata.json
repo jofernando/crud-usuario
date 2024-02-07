@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "file.upload-dir",
+  "type": "java.lang.String",
+  "description": "Diretório onde serão salvos os arquivos das assinaturas dos usuários"
+}]}
